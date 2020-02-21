@@ -1,4 +1,4 @@
 <?php 
 $nombre = "marcos";
-eho "$nombre";
+echo "$nombre";
 ?>
