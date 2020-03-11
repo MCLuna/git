@@ -1,0 +1,21 @@
+6838681 agregando hero
+004ade6 agregando el header
+a725dc3 quitar carpeta docs
+9934ecf carperta docs
+231761c sin conflicto de ramas
+482064f 2 agregados
+34e7ec9 unos agregados
+5863bf3 parrafo agregado en nueva rama
+70df74b letras remoto
+b016911 numeros agregados
+c423ea1 cambio local
+28b729f cambio servidor
+830f310 cambio en style.css
+c323dbe modificacion
+db14b7c Update 1.php
+487acb8 1er php
+1e0e656 nuevo archivo style2.css
+df40408 Create README.md
+28813ba 3 vez
+f6a2435 ahora tiene titulo
+35197e4 Primer Commit
