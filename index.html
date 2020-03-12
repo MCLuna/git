@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>GitPlatzi</title>
-	<style type="text/css">
+	<style media="screen">
 		body{
 			margin:0;	
 		}
@@ -10,9 +10,22 @@
 			max-width: 100%;
 			vertical-align: top;
 		}
+		img#responsive{
+				display: none;
+			}
+		@media screen and (max-width: 768px){
+			img#responsive{
+				display: block;
+			}
+		}
 	</style>
 </head>
 <body>
-	<img src="img/new_version.jpg">
+	<img src="img/responsive.png" id="responsive">
+	<img src="img/header.jpg">
+	<img src="img/hero.jpg">
+	<img src="img/acustica.jpg">
+	<img src="img/clasica.jpg">
+	<img src="img/footer.jpg">
 </body>
 </html>
