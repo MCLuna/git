@@ -1,3 +1,9 @@
+1499a2f Merge branch 'master' of https://github.com/MCLuna/git
+3f9ba9e Update README.md
+a4e332a agregando updateA
+e4ea9e4 responsive
+659b866 nueva version verde
+d51eded pagina terminada
 6838681 agregando hero
 004ade6 agregando el header
 a725dc3 quitar carpeta docs
